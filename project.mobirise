@@ -134,7 +134,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\">SEGUROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-f\" aria-expanded=\"false\">CONTACTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"htt://www.dmar.pt\" aria-expanded=\"false\">GRUPO DMAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\">SEGUROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-f\" aria-expanded=\"false\">CONTACTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dmar.pt\" aria-expanded=\"false\">GRUPO DMAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -461,7 +461,7 @@
           },
           "text4": "<a href=\"mailto:seguros@dmar.pt\"><b>seguros@dmar.pt</b></a>",
           "title1": "<br><br><span style=\"font-size: 1rem; line-height: 1.3;\">Categorias</span><br>",
-          "text5": "<li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Automóvel</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">CASA</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">SAÚDE</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">EMPRESAS</span></li>",
+          "text5": "<li><span style=\"font-size: 0.875rem; line-height: 1.8;\">AUTOMÓVEL</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">CASA</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">SAÚDE</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">EMPRESAS</span></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -491,7 +491,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contactar</a>"
         }
       ]
     },
