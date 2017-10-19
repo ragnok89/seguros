@@ -465,7 +465,7 @@
           "text6": "",
           "form": {
             "title": "MESSAGE",
-            "action": "imobiliaria@dmar.pt",
+            "action": "seguros@dmar.pt",
             "alerts": {
               "success": "Obrigado por nos contactar!"
             },
