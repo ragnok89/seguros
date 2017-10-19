@@ -120,10 +120,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo-02-128x117-128x117.png",
+              "src": "@PROJECT_PATH@/assets/images/teste-logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -394,10 +394,10 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo-02-128x117-128x117.png",
+              "src": "@PROJECT_PATH@/assets/images/teste-logo-small.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
