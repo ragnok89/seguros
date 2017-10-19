@@ -12,9 +12,9 @@
         "infoColor": "#475577",
         "warningColor": "#3d8eb9",
         "dangerColor": "#28324e",
-        "titleFont": "Roboto Condensed",
-        "subtitleFont": "Roboto Slab",
-        "textFont": "Roboto Slab",
+        "titleFont": "Roboto",
+        "subtitleFont": "Roboto",
+        "textFont": "Roboto",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
@@ -49,8 +49,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -113,7 +113,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -133,7 +133,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DMAR SEGUROS</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"true\">SEGUROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-4\" aria-expanded=\"true\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
