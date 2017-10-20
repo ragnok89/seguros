@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DMAR Seguros",
-    "currentPage": "index.html",
+    "currentPage": "simulacao.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 20,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -755,6 +755,57 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\">SEGUROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-f\" aria-expanded=\"false\">CONTACTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"www.dmar.pt\" aria-expanded=\"false\">GRUPO DMAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-j",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "PEDIDO DE SIMULAÇÃO DE SEGURO",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-h",
+          "_params": {
+            "_customHTML": "<iframe src=\" http://www.dmar-imobiliaria.pt/simulacao/\" name=\"frame1\" scrolling=\"no\" frameborder=\"no\" align=\"center\" height = \"800px\" width = \"1100px\">\n</iframe>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/7628x1080.png",
+            "bgColor": "#3366ff",
+            "bgColorRadio": false
+          },
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe src=\" http://www.dmar-imobiliaria.pt/simulacao/\" name=\"frame1\" scrolling=\"no\" frameborder=\"no\" align=\"center\" height = \"800px\" width = \"1100px\">\n</iframe>"
         },
         {
           "_tags": [
