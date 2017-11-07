@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DMAR Seguros",
-    "currentPage": "simulacao.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -46,67 +46,37 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_styles": {
-            "H2": {
-              "font-size": "72px"
-            }
-          },
+          "_name": "header1",
+          "_anchor": "header1-k",
           "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "PROTEJA-SE<br>CONOSCO!",
-                "showText": true,
-                "text": "Opte por um seguro de saúde à sua medida. Fale connosco!",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"#\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "PROTEJA-SE ENQUANTO CONDUZ!",
-                "showText": true,
-                "text": "Proteja-se enquanto conduz!<br>Fale connosco e obtenha o melhor seguro para a sua viatura e seus ocupantes.<br>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "A SUA CASA É IMPORTANTE",
-                "showText": true,
-                "text": "Contacte-nos e obtenha o melhor seguro para a sua habitação!",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a> "
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/i5bBIetImCA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
-          "_anchor": "slider-1",
-          "articleLayout": false
+          "title": "PROTEJA O QUE É IMPORTANTE",
+          "text": "OPTE POR UM AGENTE DE SEGUROS!<br>Trabalhamos de forma independente das companhias de seguro.<br>Aconselhamos com um parecer justo e ideal para lhe trazer a melhor solução.<br>Fale connosco!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_tags": [
@@ -115,7 +85,7 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-8",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -136,7 +106,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"simulacao.html\" data-toolbar=\"-mbrBtnMove\">ENVIAR PEDIDO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "PEÇA JÁ UMA SIMULAÇÃO"
+          "title": "PEÇA UMA SIMULAÇÃO"
         },
         {
           "_tags": [
@@ -472,7 +442,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {

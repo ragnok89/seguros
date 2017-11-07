@@ -413,8 +413,8 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #7e9b9f;
 }
-#slider-1 H2 {
-  font-size: 72px;
+#header1-k .mbr-section-title {
+  font-size: 60px;
 }
 #ext_menu-g .hide-buttons .nav-btn {
   display: none !important;
