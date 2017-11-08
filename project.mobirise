@@ -154,7 +154,7 @@
           "title1": "SEGUROS VIDA",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"tiposseguro.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"segurosvida.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/umbrella-with-plus-sign.png",
@@ -170,7 +170,7 @@
           "title2": "SEGUROS NÃO VIDA",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"tiposseguro.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"segurosnaovida.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/health-insurance.png",
@@ -251,7 +251,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "PARTILHE-NOS COM OS SEUS AMIGOS"
+          "text": "Apresente-nos a um amigo seu!"
         },
         {
           "_tags": [
