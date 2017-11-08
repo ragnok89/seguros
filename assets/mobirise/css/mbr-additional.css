@@ -416,6 +416,9 @@ h6,
 #header1-k .mbr-section-title {
   font-size: 60px;
 }
+#header1-k .mbr-section-lead {
+  font-size: 22px;
+}
 #ext_menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
