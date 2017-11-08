@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DMAR Seguros",
-    "currentPage": "segurosnaovida.html",
+    "currentPage": "segurosvida.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 30,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -268,7 +268,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) DMAR 2017. TODOS OS DIREITOS RESERVADOS."
+          "text": "Copyright (c) DMAR SEGUROS 2017. TODOS OS DIREITOS RESERVADOS."
         },
         {
           "_tags": [
@@ -534,16 +534,16 @@
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -673,7 +673,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) DMAR 2017. TODOS OS DIREITOS RESERVADOS."
+          "text": "Copyright (c) DMAR SEGUROS 2017. TODOS OS DIREITOS RESERVADOS."
         }
       ]
     },
@@ -701,8 +701,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-family": "'Ubuntu', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -745,16 +745,16 @@
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -776,6 +776,360 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\">SEGUROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-f\" aria-expanded=\"false\">CONTACTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"www.dmar.pt\" aria-expanded=\"false\">GRUPO DMAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-p",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo.jpeg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "SEGUROS VIDA",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-r",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"segurosvida.html#form1-s\" data-toolbar=\"-mbrBtnMove\">AGENDAR</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "AGENDAR REUNIÃO"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-q",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/graveyard.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-q",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Em caso de Morte",
+          "subtitle1": "O seguro que paga ao beneficiário, o capital  acordado, se a pessoa segura morrer antes do prazo fixado no contrato.",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/like.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-q",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Em caso de Vida",
+          "subtitle2": "O seguro que paga ao beneficiário, o capital acordado, se a pessoa segura estiver viva antes do prazo fixado no contrato.",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/borromean-rings.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-q",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Mistos (Morte ou Vida)",
+          "subtitle3": "O seguro que paga ao beneficiário, valores diferentes, se a pessoa segura estiver viva ou morta antes do prazo fixado no contrato.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/disabillity-symbol.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-q",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Invalidez",
+          "subtitle4": "(Sem descrição)",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coins.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-t",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "PPRs",
+          "subtitle1": "Seguro que na prática não se destinam a cobrir qualquer risco. São produtos financeiros, tal como acontece com os seguros de capitalização.",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/accounting.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-t",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Vida com conta Poupança",
+          "subtitle2": "São produtos vocacionados para a poupança de médio ou longo prazo, que podem contribuir para complementar a reforma ou ser usados para financiar a educação do participante ou da sua família.",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/checklist.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-t",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Universal Life",
+          "subtitle3": "São seguros de vida flexíveis relativamente à escolha pelo tomador do seguro do esquema de pagamento de prémios e do montante dos capitais seguros.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stick-man.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-t",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Individuais ou de Grupo",
+          "subtitle4": "Os seguros individuais cobrem os riscos referentes a uma única pessoa, um agregado familiar ou um conjunto de pessoas que vivam em economia comum.<div><span style=\"font-size: 0.875rem; line-height: 1.7857;\">Os seguros de grupo são contratos através dos quais o   segurador cobre riscos de um conjunto de pessoas ligadas ao tomador do seguro por uma relação distinta do seguro (por exemplo, seguro de saúde do conjunto dos trabalhadores de uma empresa).</span><br></div>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bank.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "segurosvida.html#features3-t",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Fundos de Pensões Individuais ou Empresas",
+          "subtitle5": "Seguro constituído por iniciativa de uma Entidade Gestora, sendo o seu património obrigatoriamente representado por unidades de participação.",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-s",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "AGENDAR REUNIÃO",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "seguros@dmar.pt",
+            "alerts": {
+              "success": "Obrigado pelo pedido de contacto! Irá ser contactado o mais brevemente possivel."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AGENDAR</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
@@ -833,7 +1187,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) DMAR 2017. TODOS OS DIREITOS RESERVADOS."
+          "text": "Copyright (c) DMAR SEGUROS 2017. TODOS OS DIREITOS RESERVADOS."
         }
       ]
     },
@@ -905,16 +1259,16 @@
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {
-              "name": "Ubuntu",
-              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "css": "'Ubuntu', sans-serif"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1022,7 +1376,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) DMAR 2017. TODOS OS DIREITOS RESERVADOS."
+          "text": "Copyright (c) DMAR SEGUROS 2017. TODOS OS DIREITOS RESERVADOS."
         }
       ]
     }

@@ -567,7 +567,7 @@ h6,
 #menu-9 .link,
 #menu-9 .dropdown-item {
   color: #ffffff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-9 .link {
   font-size: 0.75rem;
@@ -612,6 +612,9 @@ h6,
 #menu-9 .link[aria-expanded="true"],
 #menu-9 .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
+}
+#form1-s .form-control-label {
+  color: #232323;
 }
 
 
