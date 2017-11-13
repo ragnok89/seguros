@@ -1082,6 +1082,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-s",
           "_params": {
             "labelsColor": "#232323",
@@ -1127,12 +1132,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AGENDAR</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AGENDAR</a>"
         },
         {
           "_tags": [
