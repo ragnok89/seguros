@@ -284,11 +284,11 @@
               "color": "#efefef"
             },
             "SMALL": {
-              "color": "#cccccc",
+              "color": "#efefef",
               "font-size": "14px"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f"
+              "color": "#cccccc"
             }
           }
         },
