@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
 
@@ -515,7 +514,7 @@ h6,
 #menu-c .link,
 #menu-c .dropdown-item {
   color: #ffffff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-c .link {
   font-size: 0.75rem;
@@ -697,4 +696,7 @@ h6,
 #menu-l .link[aria-expanded="true"],
 #menu-l .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
+}
+#form1-16 .form-control-label {
+  color: #232323;
 }
