@@ -1507,7 +1507,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-3.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/main-pexel-naovida.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1515,8 +1515,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000",
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
@@ -1787,6 +1787,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-16",
           "_params": {
             "labelsColor": "#232323",
@@ -1832,12 +1837,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">A G E N D A R&nbsp;</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">A G E N D A R&nbsp;</a>"
         },
         {
           "_tags": [
